@@ -60,3 +60,5 @@ We intend to use publicly available datasets in this analysis with obvious choic
 
 Choice depends on the kind of hypothesis you want to test as nothing else better guides your work.
 
+### Housecleaning and Skill scoping
+Now that we are here please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSdxSvOjJR7tMoc387GwbAI0li1y5WAYTJt1NDqpqFZzGEMs6Q/viewform?usp=sf_link) to help me get a bearing of who we are dealing with and how to format the class we will be taking.
