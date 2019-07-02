@@ -49,5 +49,14 @@ pip3 install virtualenv
 python3 -m venv kamilimuds
 source kamilimuds/bin/activate
 pip install pandas numpy seaborn jupyterlab
+jupyter lab
 ```
 ## Data Extraction
+We intend to use publicly available datasets in this analysis with obvious choices being:
+* [FSD Data](https://fsdkenya.org/knowledge-hub/dataset/)
+* [CBK Data](https://www.centralbank.go.ke/)
+* [KNBS Data](https://www.knbs.or.ke/)
+* [Kenya Open Data](http://www.opendata.go.ke/)
+
+Choice depends on the kind of hypothesis you want to test as nothing else better guides your work.
+
