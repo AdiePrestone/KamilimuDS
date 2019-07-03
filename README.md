@@ -34,8 +34,7 @@ This is the information we have about the data i.e. how it's collected, by whom,
 # Preferred Tools for Data Science
 Technically Data Science relies on math. **It's always been math** but running your functions in a programming environment solves issues to do with reproducibility, schedulability and collaboration.
 
-For this tutorial we intend to use Python3 in an ubuntu environment.
-
+For this tutorial we intend to use Python3 in an ubuntu environment. As a guide here's a free [Python in Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) that can help.
 ############################### BREAK ###############################
 
 # Diving in
